@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dragos Negoita</h1>
 <h3 align="center">A passionate programmer and game developer from Romania</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dragos-negoita" alt="dragos-negoita" /></a> </p>
-
 - 🔭 I’m currently working on **my dream game**
 
 - 🌱 I’m currently deepening my knowledge in **C++, C#, and Unity**
